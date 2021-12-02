@@ -1,6 +1,6 @@
 ### Olá, Mundo! Eu sou a Erica Nunes 👋
 
-- 🔭 Desenvolvedora full stack em formação
+- 🔭 Desenvolvedora full stack jr em constante formação
 - 🌱 Estudando react
 - 📫 Email : eriica.f.n@hotmail.com. 
 
