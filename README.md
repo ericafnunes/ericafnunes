@@ -6,8 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/ericafnunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&layout=compact&count_private=true" />
+ <img height= "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ericafnunes&hide_border=true" />
 </div>
   
  <div style="display: inline_block"><br>
