@@ -30,7 +30,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&count_private=true&layout=compact&count_private=true"alt="ericafnunes most languages"/>
   
