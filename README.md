@@ -7,11 +7,15 @@
 - 🌱 Foco em react
 - 📫 Email : eriica.f.n@hotmail.com. 
 
+<br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&count_private=true&layout=compact&count_private=true"alt="ericafnunes most languages"/>
+  
+<br><br>
   
  ## 🛠 &nbsp;Tecnologias
 
@@ -41,3 +45,4 @@
   ![Snake animation](https://github.com/ericafnunes/ericafnunes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
