@@ -9,14 +9,6 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&count_private=true&layout=compact&count_private=true"alt="ericafnunes most languages"/>
-  
-<br><br>
-  
  ## 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -34,8 +26,15 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericafnunes&count_private=true&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericafnunes&count_private=true&layout=compact&count_private=true"alt="ericafnunes most languages"/>
   
-##
+<br><br>
   
   <div> 
  <a href="mailto:eriica.f.n@hotmail.com"><img src="https://img.shields.io/badge/_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"</a>
