@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ericafnunes/f75bd07b8259b307edc4081a780e3e80/raw/ab9dfe4580eab784dcc3186e4ac58a1c2029a273/githubcard.svg"/>
+<img align="right" width="400em" height="500em" src="https://raw.githubusercontent.com/gist/ericafnunes/ee4dca9de923b7f036f29a08d86105f6/raw/ff9504c0663bfac3c159c3f08be45defc98f78b6/githubcard.svg"/>
 <h1 align="left">Olá, mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou a Érica!</h1>
 
 
