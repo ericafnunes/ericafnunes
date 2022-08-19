@@ -4,7 +4,7 @@
 
 
 - 🔭 Desenvolvedora full stack jr em constante formação
-- 🌱 Foco em react
+- 🌱 Foco em java e react
 - 📫 Email : eriica.f.n@hotmail.com. 
 
 <br><br>
