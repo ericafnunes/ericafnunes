@@ -1,9 +1,8 @@
-<img align="right" width="400em" height="500em" src="https://raw.githubusercontent.com/gist/ericafnunes/ee4dca9de923b7f036f29a08d86105f6/raw/ff9504c0663bfac3c159c3f08be45defc98f78b6/githubcard.svg"/>
 <h1 align="left">Olá, mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou a Érica!</h1>
 
 
 
-- 🔭 Desenvolvedora full stack jr em constante formação
+- 🔭 Desenvolvedora full stack em constante formação
 - 📫 Email : eriica.f.n@hotmail.com. 
 
 <br><br>
