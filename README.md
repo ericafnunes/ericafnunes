@@ -1,4 +1,4 @@
-<h1 align="left">Olá, mundo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou a Érica!</h1>
+<h1 align="left">Olá, mundo! Eu sou a Érica!</h1>
 
 
 
