@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Desenvolvedora full stack em constante formação
+- 🔭 Desenvolvedora full stack
 - 📫 Email : eriica.f.n@hotmail.com. 
 
 <br><br>
